@@ -69,7 +69,7 @@
       "name": "Orange saddle lock front chain cross body bag",
       "price": 84.0,
       "sizeId": 5,
-      "status": false,
+      "status": "New",
       "isStock": true
     },
     {
@@ -81,7 +81,7 @@
       "name": "Light brown studded Wide fit wedges",
       "price": 90.0,
       "sizeId": 6,
-      "status": false,
+      "status": "New",
       "isStock": true
     },
     {

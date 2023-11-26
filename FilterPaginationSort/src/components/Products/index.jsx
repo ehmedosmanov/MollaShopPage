@@ -172,6 +172,8 @@ const Products = ({
               name={product.name}
               price={product.price}
               image={product.image}
+              status={product.status}
+              isStock={product.isStock}
             />
           ))}
         {sortProducts.length === 0 ? (
