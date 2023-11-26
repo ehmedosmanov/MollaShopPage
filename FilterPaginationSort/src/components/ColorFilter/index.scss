@@ -1,0 +1,54 @@
+.colors-items {
+  display: flex;
+  justify-content: space-between;
+
+  .ant-checkbox-inner {
+    visibility: hidden;
+  }
+
+  .ant-checkbox-wrapper {
+    position: relative;
+    top: 1px;
+    top: 50%;
+    left: 50%;
+    border-radius: 50%;
+    transform: translate(-50%, -50%);
+  }
+}
+
+.circle {
+  display: flex;
+  justify-content: center;
+  position: relative;
+  top: 0;
+  bottom: 0;
+  width: 28px;
+  height: 28px;
+  border-radius: 100%;
+}
+
+.Brown {
+  background: #b87145;
+}
+.Blue {
+  background: #3399cc;
+}
+.Beige {
+  background: #669933;
+}
+.Khaki {
+  background: #f0c04a;
+}
+.Light {
+  background: #ebebeb;
+}
+.Yellow {
+  background: #f2719c;
+}
+.Orange {
+  background: #000;
+}
+
+.border {
+  border: 2px solid #3399cc;
+}

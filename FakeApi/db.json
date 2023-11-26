@@ -1,0 +1,124 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "categoryId": 1,
+      "colorId": 1,
+      "brandId": 1,
+      "image": "https://portotheme.com/html/molla/assets/images/products/product-4.jpg",
+      "name": "Brown paperbag waist pencil skirt",
+      "price": 60.0,
+      "sizeId": 1,
+      "status": "New",
+      "isStock": true
+    },
+    {
+      "id": 2,
+      "categoryId": 2,
+      "colorId": 2,
+      "brandId": 2,
+      "image": "https://portotheme.com/html/molla/assets/images/products/product-5.jpg",
+      "name": "Khaki utility boiler jumpsuit",
+      "price": 90.0,
+      "sizeId": 3,
+      "status": "Top",
+      "isStock": true
+    },
+    {
+      "id": 3,
+      "categoryId": 1,
+      "colorId": 3,
+      "brandId": 3,
+      "image": "https://portotheme.com/html/molla/assets/images/products/product-6.jpg",
+      "name": "Dark yellow lace cut out swing dress",
+      "price": 84.0,
+      "sizeId": 1,
+      "status": "New",
+      "isStock": true
+    },
+    {
+      "id": 4,
+      "categoryId": 3,
+      "colorId": 4,
+      "brandId": 4,
+      "image": "https://portotheme.com/html/molla/assets/images/products/product-7.jpg",
+      "name": "Blue utility pinafore denim dress",
+      "price": 76.0,
+      "sizeId": 3,
+      "status": null,
+      "isStock": false
+    },
+    {
+      "id": 5,
+      "categoryId": 4,
+      "colorId": 5,
+      "brandId": 5,
+      "image": "https://portotheme.com/html/molla/assets/images/products/product-8.jpg",
+      "name": "Beige knitted elastic runner shoes",
+      "price": 84.0,
+      "sizeId": 4,
+      "status": null,
+      "isStock": true
+    },
+    {
+      "id": 6,
+      "categoryId": 5,
+      "colorId": 6,
+      "brandId": 6,
+      "image": "https://portotheme.com/html/molla/assets/images/products/product-9.jpg",
+      "name": "Orange saddle lock front chain cross body bag",
+      "price": 84.0,
+      "sizeId": 5,
+      "status": false,
+      "isStock": true
+    },
+    {
+      "id": 7,
+      "categoryId": 4,
+      "colorId": 7,
+      "brandId": 7,
+      "image": "https://portotheme.com/html/molla/assets/images/products/product-10.jpg",
+      "name": "Light brown studded Wide fit wedges",
+      "price": 90.0,
+      "sizeId": 6,
+      "status": false,
+      "isStock": true
+    },
+    {
+      "id": 8,
+      "categoryId": 6,
+      "colorId": 8,
+      "brandId": 1,
+      "image": "https://portotheme.com/html/molla/assets/images/products/product-11.jpg",
+      "name": "Yellow button front tea top",
+      "price": 56.0,
+      "sizeId": 6,
+      "status": "Top",
+      "isStock": true
+    },
+    {
+      "id": 9,
+      "categoryId": 5,
+      "colorId": 9,
+      "brandId": 2,
+      "image": "https://portotheme.com/html/molla/assets/images/products/product-12.jpg",
+      "name": "Black soft RI weekend travel bag",
+      "price": 68.0,
+      "sizeId": 3,
+      "status": "Top",
+      "isStock": true
+    },
+    {
+      "id": 10,
+      "categoryId": 4,
+      "colorId": 8,
+      "brandId": 5,
+      "image": "https://portotheme.com/html/molla/assets/images/products/product-12.jpg",
+      "name": "Yellow saddle lock front chain cross body bag",
+      "price": 44.0,
+      "sizeId": 4,
+      "status": "New",
+      "isStock": false
+    }
+  ]
+}
